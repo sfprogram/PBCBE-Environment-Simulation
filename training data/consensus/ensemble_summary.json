@@ -1,0 +1,278 @@
+{
+  "ensemble_parameters": {
+    "num_runs": 5,
+    "success_threshold": 0.6,
+    "convergence_similarity": 0.2
+  },
+  "results": {
+    "success": true,
+    "consensus_genes": [
+      [
+        -1.0,
+        0.0
+      ],
+      [
+        1.0,
+        0.0
+      ],
+      [
+        -1.0,
+        0.0
+      ],
+      [
+        1.0,
+        0.0
+      ],
+      [
+        0.997644319728661,
+        0.0019790607821935607
+      ]
+    ],
+    "consistent_runs": [
+      {
+        "run_id": 0,
+        "seed": 424242,
+        "converged": true,
+        "final_generation": 23,
+        "final_genes": [
+          -1.0,
+          1.0,
+          -1.0,
+          1.0,
+          0.996028690283636
+        ],
+        "runtime": 130.6359212398529,
+        "filename": "training data/consensus/ensemble_run_0_seed_424242.csv",
+        "convergence_generation": 23
+      },
+      {
+        "run_id": 1,
+        "seed": 85123,
+        "converged": true,
+        "final_generation": 32,
+        "final_genes": [
+          -1.0,
+          1.0,
+          -1.0,
+          1.0,
+          0.9968322920690509
+        ],
+        "runtime": 217.13503623008728,
+        "filename": "training data/consensus/ensemble_run_1_seed_85123.csv",
+        "convergence_generation": 32
+      },
+      {
+        "run_id": 2,
+        "seed": 13579,
+        "converged": true,
+        "final_generation": 74,
+        "final_genes": [
+          -1.0,
+          1.0,
+          -1.0,
+          1.0,
+          1.0
+        ],
+        "runtime": 433.03133893013,
+        "filename": "training data/consensus/ensemble_run_2_seed_13579.csv",
+        "convergence_generation": 74
+      },
+      {
+        "run_id": 3,
+        "seed": 73421,
+        "converged": true,
+        "final_generation": 35,
+        "final_genes": [
+          -1.0,
+          1.0,
+          -1.0,
+          1.0,
+          1.0
+        ],
+        "runtime": 176.19088292121887,
+        "filename": "training data/consensus/ensemble_run_3_seed_73421.csv",
+        "convergence_generation": 35
+      },
+      {
+        "run_id": 4,
+        "seed": 29374,
+        "converged": true,
+        "final_generation": 40,
+        "final_genes": [
+          -1.0,
+          1.0,
+          -1.0,
+          1.0,
+          0.9953606162906183
+        ],
+        "runtime": 263.5930550098419,
+        "filename": "training data/consensus/ensemble_run_4_seed_29374.csv",
+        "convergence_generation": 40
+      }
+    ],
+    "all_runs": [
+      {
+        "run_id": 0,
+        "seed": 424242,
+        "converged": true,
+        "final_generation": 23,
+        "final_genes": [
+          -1.0,
+          1.0,
+          -1.0,
+          1.0,
+          0.996028690283636
+        ],
+        "runtime": 130.6359212398529,
+        "filename": "training data/consensus/ensemble_run_0_seed_424242.csv",
+        "convergence_generation": 23
+      },
+      {
+        "run_id": 1,
+        "seed": 85123,
+        "converged": true,
+        "final_generation": 32,
+        "final_genes": [
+          -1.0,
+          1.0,
+          -1.0,
+          1.0,
+          0.9968322920690509
+        ],
+        "runtime": 217.13503623008728,
+        "filename": "training data/consensus/ensemble_run_1_seed_85123.csv",
+        "convergence_generation": 32
+      },
+      {
+        "run_id": 2,
+        "seed": 13579,
+        "converged": true,
+        "final_generation": 74,
+        "final_genes": [
+          -1.0,
+          1.0,
+          -1.0,
+          1.0,
+          1.0
+        ],
+        "runtime": 433.03133893013,
+        "filename": "training data/consensus/ensemble_run_2_seed_13579.csv",
+        "convergence_generation": 74
+      },
+      {
+        "run_id": 3,
+        "seed": 73421,
+        "converged": true,
+        "final_generation": 35,
+        "final_genes": [
+          -1.0,
+          1.0,
+          -1.0,
+          1.0,
+          1.0
+        ],
+        "runtime": 176.19088292121887,
+        "filename": "training data/consensus/ensemble_run_3_seed_73421.csv",
+        "convergence_generation": 35
+      },
+      {
+        "run_id": 4,
+        "seed": 29374,
+        "converged": true,
+        "final_generation": 40,
+        "final_genes": [
+          -1.0,
+          1.0,
+          -1.0,
+          1.0,
+          0.9953606162906183
+        ],
+        "runtime": 263.5930550098419,
+        "filename": "training data/consensus/ensemble_run_4_seed_29374.csv",
+        "convergence_generation": 40
+      }
+    ]
+  },
+  "run_details": [
+    {
+      "run_id": 0,
+      "seed": 424242,
+      "converged": true,
+      "final_generation": 23,
+      "final_genes": [
+        -1.0,
+        1.0,
+        -1.0,
+        1.0,
+        0.996028690283636
+      ],
+      "runtime": 130.6359212398529,
+      "filename": "training data/consensus/ensemble_run_0_seed_424242.csv",
+      "convergence_generation": 23
+    },
+    {
+      "run_id": 1,
+      "seed": 85123,
+      "converged": true,
+      "final_generation": 32,
+      "final_genes": [
+        -1.0,
+        1.0,
+        -1.0,
+        1.0,
+        0.9968322920690509
+      ],
+      "runtime": 217.13503623008728,
+      "filename": "training data/consensus/ensemble_run_1_seed_85123.csv",
+      "convergence_generation": 32
+    },
+    {
+      "run_id": 2,
+      "seed": 13579,
+      "converged": true,
+      "final_generation": 74,
+      "final_genes": [
+        -1.0,
+        1.0,
+        -1.0,
+        1.0,
+        1.0
+      ],
+      "runtime": 433.03133893013,
+      "filename": "training data/consensus/ensemble_run_2_seed_13579.csv",
+      "convergence_generation": 74
+    },
+    {
+      "run_id": 3,
+      "seed": 73421,
+      "converged": true,
+      "final_generation": 35,
+      "final_genes": [
+        -1.0,
+        1.0,
+        -1.0,
+        1.0,
+        1.0
+      ],
+      "runtime": 176.19088292121887,
+      "filename": "training data/consensus/ensemble_run_3_seed_73421.csv",
+      "convergence_generation": 35
+    },
+    {
+      "run_id": 4,
+      "seed": 29374,
+      "converged": true,
+      "final_generation": 40,
+      "final_genes": [
+        -1.0,
+        1.0,
+        -1.0,
+        1.0,
+        0.9953606162906183
+      ],
+      "runtime": 263.5930550098419,
+      "filename": "training data/consensus/ensemble_run_4_seed_29374.csv",
+      "convergence_generation": 40
+    }
+  ]
+}

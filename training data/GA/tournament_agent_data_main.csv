@@ -1,0 +1,2 @@
+generation,species,id,fitness,flies_eaten,final_state,wall_gene,food_gene,snake_gene,grass_gene,water_gene
+0,frog,0,-697.9,0,wall,0.8861147053374328,-0.9037382063643975,0.9879775723223685,0.9564964762684387,-0.8888041896002048

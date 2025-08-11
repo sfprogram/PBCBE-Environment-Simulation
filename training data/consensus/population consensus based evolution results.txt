@@ -1,0 +1,35 @@
+population consensus based evolution with these seeds
+ENSEMBLE_SEEDS = [424242, 85123, 13579, 73421, 29374]
+
+
+=== ENSEMBLE ANALYSIS ===
+Convergence rate: 5/5 (100.0%)
+Consistent runs: 5/5 (100.0%)
+
+ENSEMBLE SUCCESS - Reliable results achieved!
+
+=== CONSENSUS GENE VALUES ===
+Wall Avoidance : -1.000 ± 0.000 → AVOID (High confidence)
+Food Seeking   : +1.000 ± 0.000 → ATTRACT (High confidence)
+Snake Avoidance: -1.000 ± 0.000 → AVOID (High confidence)
+Grass Seeking  : +1.000 ± 0.000 → ATTRACT (High confidence)
+Water Seeking  : +0.998 ± 0.002 → ATTRACT (High confidence)
+
+=== RUN DETAILS ===
+Run 0: Gen 23, Time: 130.6s, Seed: 424242
+Run 1: Gen 32, Time: 217.1s, Seed: 85123
+Run 2: Gen 74, Time: 433.0s, Seed: 13579
+Run 3: Gen 35, Time: 176.2s, Seed: 73421
+Run 4: Gen 40, Time: 263.6s, Seed: 29374
+Ensemble summary saved to training data/consensus/ensemble_summary.json
+
+ENSEMBLE TRAINING SUCCESSFUL!
+
+Use these consensus gene values for reliable behavior:
+Gene 0: -1.000000
+Gene 1: 1.000000
+Gene 2: -1.000000
+Gene 3: 1.000000
+Gene 4: 0.997644
+
+Process finished with exit code 0
