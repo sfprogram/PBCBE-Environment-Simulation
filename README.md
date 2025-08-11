@@ -3,6 +3,11 @@
 Frogs attempt to avoid snakes and walls while collecting flies 
 and eventually going into water to reproduce.
 
+## [Report](Simulation_Report.pdf)
+
+Please click the link to read the report for a detailed explanation of this project
+or find it in the repo ```Simulation_Report.pdf```
+
 
 ## Algorithms
 
@@ -13,7 +18,7 @@ Three selection methods have been implemented:
 - Simulated annealing with exponential cooling
 
 ### Population-Based Consensus Behavioural Evolution (PBCBE)
-Uses the same gene representation but will determine how to evolve each gene independently
+Noval take on consensus evolutionary algorithms. Uses the same gene representation but will determine how to evolve each gene independently
 based on the recorded behaviour during collected during a generation.
 
 
@@ -26,17 +31,17 @@ the learning and evolution logic.
 
 ### Training
 Headless version of main for faster training without the visual overhead. Results are saved
-to training data/GA or Consensus (PBCBE)/
+to ```training data/GA or Consensus/```
 
 
 ### Generation_view
-Purely visual basin to load trained data into tkinter. Currently is set to the latest generation
+Purely visual basin to load ```training data``` into tkinter. Currently is set to the latest generation
 in the dataset.
 
 
 ### Plot
-Plots the data stored within training data/ respectively. Saves the plotted graphs to plots/GA 
-or Consensus (PBCBE)/
+Plots the data stored within ```training data``` respectively. Saves the plotted graphs to ```plots/GA 
+or Consensus/```
 
 
 ## Installation and setup
